@@ -1,5 +1,5 @@
 {
-  "name": "rgrjs",
+  "name": "react-dojo",
   "version": "1.0.0",
   "main": "",
   "scripts": {
@@ -9,12 +9,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shankarRaman/rgrjs.git"
+    "url": "git+https://github.com/CincinnatiCodingDojo/react-redux-dojo.git"
   },
   "bugs": {
-    "url": "https://github.com/shankarRaman/rgrjs/issues"
+    "url": "https://github.com/CincinnatiCodingDojo/react-redux-dojo/issues"
   },
-  "homepage": "https://github.com/shankarRaman/rgrjs#readme",
+  "homepage": "https://github.com/CincinnatiCodingDojo/react-redux-dojo#readme",
   "description": "",
   "dependencies": {
     "babel": "^6.3.13",
